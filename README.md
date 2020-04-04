@@ -6,7 +6,7 @@ El dataset contiene básicamente los datos por países de ocho variables en una 
 
 Agradecer a ‘DatosMacro’ (www.datosmacro.com) que pertenece al grupo del periódico digital ‘Expansión’ por permitirnos el acceso a sus datos. También agradecer su trabajo de recogida de dichas cifras tanto a través de sus fuentes propias como las utilizadas del Ministerio de Sanidad y del CSSE (JHU).
 
-## Miembros equipo:
+En este trabajo hemos tomado parte:
 
-* Enrique Pérez B.
-* Olast Arrizibita I.
+* Enrique Pérez
+* Olast Arrizibita
